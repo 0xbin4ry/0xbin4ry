@@ -1,8 +1,5 @@
-# 💫 Hi:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi! I'm 0xbin4ry!:
 
-
-## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xbin4ry) 
 
 # 💻 Tech Stack:
